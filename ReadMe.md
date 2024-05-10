@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Esduante de Desenvolvimento FullStack<br>🤝 Procurando ofertas de estágio<br>🌱 Aprendendo Desenvolvimento em Python e Manipulação de AI
+🔭 Estudante de Desenvolvimento FullStack<br>🤝 Procurando ofertas de estágio<br>🌱 Aprendendo Desenvolvimento em Python e Manipulação de AI
 
 
 ## 🌐 Socials:

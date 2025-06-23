@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭 Undergradutate in Big Data and AI<br>🤝 Excited to collaborate on innovative projects<br>📚  Advancing my knowledge in Python, Data Science, and AI-powered technologies<br>🧬 Enthusiast in applying AI to healthcare solutions
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laurentino.exe) 
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

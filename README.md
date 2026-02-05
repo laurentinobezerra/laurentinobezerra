@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Undergradutate in Big Data and AI<br>🤝 Excited to collaborate on innovative projects<br>📚  Advancing my knowledge in Python, Data Science, and AI-powered technologies<br>🧬 Enthusiast in applying AI to healthcare solutions
+🔭 Undergradutate in Systems Analysis and Development<br>🤝 Excited to collaborate on innovative projects<br>📚  Advancing my knowledge in Python, Data Science, and AI-powered technologies<br>🧬 Enthusiast in applying Computer Vision to healthcare solutions
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
